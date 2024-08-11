@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left"📚 Actualmente aprendiendo a usar React con TypeScript y Nest ...<br>🎯 Objetivos: Ser un Programador Backend<br></p>
+<p align="left">📚 Actualmente aprendiendo a usar React con TypeScript y Nest ...<br>🎯 Objetivos: Ser un Programador Backend<br></p>
 
 ###
 
