@@ -1,12 +1,12 @@
-<h1 align="left">Hola! 👋 Que tal?</h1>
+<h1 align="left">¡Hola! 👋 ¿Qué tal?</h1>
 
 ###
 
-<p align="left">Mi nombre es Mateo y actualmente soy estudiante de Desarrollo de Software FullStack en Cipolletti, yo vivo en General Roca - Río Negro</p>
+<p align="left">Mi nombre es Mateo y actualmente soy estudiante de Desarrollo de Software Full Stack en Cipolletti. Vivo en General Roca, Río Negro.</p>
 
 ###
 
-<p align="left">📚 Actualmente aprendiendo a usar React con TypeScript y Nest ...<br>🎯 Objetivos: Ser un Programador Backend<br></p>
+<p align="left">📚 Actualmente, estoy aprendiendo a usar React con TypeScript y Nest...<br>🎯 Objetivo: Ser un programador backend<br></p>
 
 ###
 
@@ -23,8 +23,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
 </div>
-
-###
